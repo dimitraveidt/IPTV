@@ -2,21 +2,21 @@
 
 ############## CANAIS ABERTOS #################
 
-#EXTINF:-1 tvg-id="iddocanalaberto" group-title="Canais Abertos" tvg-name="BAND Brasília" ,BAND Brasília
+#EXTINF:-1 tvg-id="iddocanalaberto" group-title="Canais Abertos" tvg-name="BAND BRASILIA" ,BAND BRASILIA
 http://voz.one:80/alexfnt/vTFBGKdUYq/96148
 #EXTINF:-1 tvg-id="iddocanalaberto" group-title="Canais Abertos" tvg-name="Futura" ,Futura
 http://voz.one:80/alexfnt/vTFBGKdUYq/256
 #EXTINF:-1 tvg-id="iddocanalaberto" group-title="Canais Abertos" tvg-name="Futura (HD)" ,Futura HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/255
-#EXTINF:-1 tvg-id="iddocanalaberto" group-title="Canais Abertos" tvg-name="Globo Brasília FHD" ,Globo Brasília FHD
+#EXTINF:-1 tvg-id="iddocanalaberto" group-title="Canais Abertos" tvg-name="GLOBO BRASILIA FHD" ,GLOBO BRASILIA FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/45863
-#EXTINF:-1 tvg-id="iddocanalaberto" group-title="Canais Abertos" tvg-name="Globo Brasília HD" ,Globo Brasília HD
+#EXTINF:-1 tvg-id="iddocanalaberto" group-title="Canais Abertos" tvg-name="Globo TV Brasilia HD" ,Globo TV Brasilia HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/95986
-#EXTINF:-1 tvg-id="iddocanalaberto" group-title="Canais Abertos" tvg-name="Globo Brasília SD" ,Globo Brasília SD
+#EXTINF:-1 tvg-id="iddocanalaberto" group-title="Canais Abertos" tvg-name="Globo TV Brasilia SD" ,Globo TV Brasilia SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/95987
-#EXTINF:-1 tvg-id="iddocanalaberto" group-title="Canais Abertos" tvg-name="Record Brasília HD" ,Record Brasília HD
+#EXTINF:-1 tvg-id="iddocanalaberto" group-title="Canais Abertos" tvg-name="RECORD 4K" ,RECORD 4K
 http://voz.one:80/alexfnt/vTFBGKdUYq/273
-#EXTINF:-1 tvg-id="iddocanalaberto" group-title="Canais Abertos" tvg-name="SBT Brasília",SBT Brasília
+#EXTINF:-1 tvg-id="iddocanalaberto" group-title="Canais Abertos" tvg-name="SBT BSB",SBT BSB
 http://voz.one:80/alexfnt/vTFBGKdUYq/299
 #EXTINF:-1 tvg-id="iddocanalaberto" group-title="Canais Abertos" tvg-name="TV Brasil FHD" ,TV Brasil FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/261
@@ -26,7 +26,7 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/263
 http://voz.one:80/alexfnt/vTFBGKdUYq/65311
 #EXTINF:-1 tvg-id="iddocanalaberto" group-title="Canais Abertos" tvg-name="TV Câmara HD" ,TV Câmara HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/45918
-#EXTINF:-1 tvg-id="iddocanalaberto" group-title="Canais Abertos" tvg-name="Cultura HD" ,Cultura HD
+#EXTINF:-1 tvg-id="iddocanalaberto" group-title="Canais Abertos" tvg-name="TV Cultura HD" ,TV Cultura HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/254
 #EXTINF:-1 tvg-id="iddocanalaberto" group-title="Canais Abertos" tvg-name="TV Escola" ,TV Escola
 http://voz.one:80/alexfnt/vTFBGKdUYq/45929
