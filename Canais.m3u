@@ -319,13 +319,13 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/424
 http://voz.one:80/alexfnt/vTFBGKdUYq/425
 #EXTINF:-1 tvg-id="iddocanaldefilmeseseries" group-title="Filmes e Séries" ,AXN SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/426
-#EXTINF:-1 tvg-id="iddocanaldefilmeseseries" group-title="Filmes e Séries" ,CANAL SONY (H265)
+#EXTINF:-1 tvg-id="iddocanaldefilmeseseries" group-title="Filmes e Séries" tvg-name="Canal Sony (H265)" ,CANAL SONY (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13857
-#EXTINF:-1 tvg-id="iddocanaldefilmeseseries" group-title="Filmes e Séries" ,CINE CANAL FHD
+#EXTINF:-1 tvg-id="iddocanaldefilmeseseries" group-title="Filmes e Séries" tvg-name="CINE CANAL FHD" ,CINE CANAL FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/432
-#EXTINF:-1 tvg-id="iddocanaldefilmeseseries" group-title="Filmes e Séries" ,CINE CANAL HD
+#EXTINF:-1 tvg-id="iddocanaldefilmeseseries" group-title="Filmes e Séries" tvg-name="CINE CANAL HD" ,CINE CANAL HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/433
-#EXTINF:-1 tvg-id="iddocanaldefilmeseseries" group-title="Filmes e Séries" ,CINE CANAL SD
+#EXTINF:-1 tvg-id="iddocanaldefilmeseseries" group-title="Filmes e Séries" tvg-name="CINE CANAL SD" ,CINE CANAL SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/434
 #EXTINF:-1 tvg-id="iddocanaldefilmeseseries" group-title="Filmes e Séries" ,CINEMAX (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13859
@@ -357,11 +357,11 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/600
 http://voz.one:80/alexfnt/vTFBGKdUYq/601
 #EXTINF:-1 tvg-id="iddocanaldefilmeseseries" group-title="Filmes e Séries" ,HBO 4K
 http://voz.one:80/alexfnt/vTFBGKdUYq/232
-#EXTINF:-1 tvg-id="iddocanaldefilmeseseries" group-title="Filmes e Séries" tvg-name="HBO 2 FHD" ,HBO 2 FHD
+#EXTINF:-1 tvg-id="iddocanaldefilmeseseries" group-title="Filmes e Séries" tvg-name="HBO 2 FHD",HBO 2 FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/594
-#EXTINF:-1 tvg-id="iddocanaldefilmeseseries" group-title="Filmes e Séries" tvg-name="HBO 2 HD"  ,HBO 2 HD
+#EXTINF:-1 tvg-id="iddocanaldefilmeseseries" group-title="Filmes e Séries" tvg-name="HBO 2 HD" ,HBO 2 HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/595
-#EXTINF:-1 tvg-id="iddocanaldefilmeseseries" group-title="Filmes e Séries" tvg-name="HBO 2 SD"  ,HBO 2 SD
+#EXTINF:-1 tvg-id="iddocanaldefilmeseseries" group-title="Filmes e Séries" tvg-name="HBO 2 SD" ,HBO 2 SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/596
 #EXTINF:-1 tvg-id="iddocanaldefilmeseseries" group-title="Filmes e Séries" ,HBO FAMILY (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13888
@@ -693,7 +693,7 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/655
 http://voz.one:80/alexfnt/vTFBGKdUYq/665
 #EXTINF:-1 tvg-id="iddocanalinfantil" group-title="Infantil" ,TV RA TIM BUM SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/666
-#EXTINF:-1 tvg-id="iddocanalinfantil" group-title="Infantil" ,ZOOMO FHD
+#EXTINF:-1 tvg-id="iddocanalinfantil" group-title="Infantil" ,ZOOMOO FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/659
 #EXTINF:-1 tvg-id="iddocanalinfantil" group-title="Infantil" ,ZOOMOO HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/660
